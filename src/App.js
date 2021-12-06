@@ -1,5 +1,5 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import "./App.css";
 
 function App() {
   return (
@@ -7,15 +7,19 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          <bold>
+            <i> Don't </i>
+          </bold>
+          Use Default Boilerplate of <code>create-react-app</code>
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://dev.to/siddhantkcode/hide-your-source-code-from-developer-tools-while-using-react-7ho-temp-slug-8353377"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Here's what you need to change in your boilerplate to hide source code
+          from developer tools.
         </a>
       </header>
     </div>
