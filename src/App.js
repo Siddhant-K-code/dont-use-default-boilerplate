@@ -14,7 +14,7 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://dev.to/siddhantkcode/hide-your-source-code-from-developer-tools-while-using-react-7ho-temp-slug-8353377"
+          href="https://dev.to/siddhantkcode/hide-your-source-code-from-developer-tools-while-using-react-5775"
           target="_blank"
           rel="noopener noreferrer"
         >
